@@ -1,0 +1,2 @@
+class Kurir < ApplicationRecord
+end
